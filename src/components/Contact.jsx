@@ -86,7 +86,7 @@ const Contact = () => {
           <div className='flex gap-4 mt-2'>
             <a href={personalInfo.github} target='_blank' rel='noreferrer' className='text-[#915EFF] hover:underline font-semibold'>GitHub</a>
             <a href={personalInfo.linkedin} target='_blank' rel='noreferrer' className='text-[#915EFF] hover:underline font-semibold'>LinkedIn</a>
-            <a href={personalInfo.portfolio} target='_blank' rel='noreferrer' className='text-[#915EFF] hover:underline font-semibold'>Portfolio</a>
+           
           </div>
         </div>
 

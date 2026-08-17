@@ -15,10 +15,8 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  iBartsLogo,
+  empLifeLogo,
   carrent,
   jobit,
   tripguide,
@@ -140,7 +138,7 @@ const experiences = [
   {
     title: "Graduate Engineer Trainee",
     company_name: "iB Arts Private Limited",
-    icon: meta,
+    icon: iBartsLogo,
     iconBg: "#1d1836",
     date: "June 2026 - Present (Onsite)",
     points: [
@@ -153,7 +151,7 @@ const experiences = [
   {
     title: "Software Developer Intern",
     company_name: "Expm Learning India Private Limited",
-    icon: tesla,
+    icon: empLifeLogo,
     iconBg: "#383E56",
     date: "October 2025 - December 2025 (Onsite)",
     points: [
